@@ -1,0 +1,5 @@
+.dashboard-bottom > .panel { height: 222px; }
+.dashboard-bottom table { font-size: 11px; }
+.dashboard-bottom th,
+.dashboard-bottom td { padding: 2px 5px; }
+.dashboard-bottom .fleet { grid-template-columns: 250px 1fr; }
