@@ -1,0 +1,4 @@
+backend/enrich_demo.sqlite3
+backend/__pycache__/
+node_modules/.vite/vitest/
+node_modules/.vitest-cache/
